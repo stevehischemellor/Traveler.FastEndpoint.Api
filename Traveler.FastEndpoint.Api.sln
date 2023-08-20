@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Traveler.FastEndpoint.Api", "Traveler.FastEndpoint.Api\Traveler.FastEndpoint.Api.csproj", "{3EBEDDA1-702A-431B-9038-4D406E9B1AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EBEDDA1-702A-431B-9038-4D406E9B1AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBEDDA1-702A-431B-9038-4D406E9B1AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBEDDA1-702A-431B-9038-4D406E9B1AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBEDDA1-702A-431B-9038-4D406E9B1AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ECAD070-B044-4EB1-BEBD-C6A328DDE709}
+	EndGlobalSection
+EndGlobal
